@@ -43,7 +43,7 @@ This is a web based application developed for health related website in AP
 
 
 
-###Primary Azure Technology used -
+### Primary Azure Technology used -
 1.Microsoft Azure portal
 
 ![image](https://user-images.githubusercontent.com/112193238/203284432-cf54f18e-a602-486b-8fef-814c6e5de879.png)
@@ -56,4 +56,5 @@ This is a web based application developed for health related website in AP
 ## Tech Stack
 
 -Microsoft Azure
+
 -HTML
