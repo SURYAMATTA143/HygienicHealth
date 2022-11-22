@@ -14,19 +14,32 @@ This is a web based application developed for health related website in AP
 
 ## Screenshots -
 
+![image](https://user-images.githubusercontent.com/112193238/203290540-681d330a-3335-47f0-94d3-c024e5cf729f.png)
+
+![image](https://user-images.githubusercontent.com/112193238/203290741-5ab9cd77-e27a-4506-af1a-111f249b3d7e.png)
+
 
 ### About us -
 
+![image](https://user-images.githubusercontent.com/112193238/203290904-dfcf21b4-23ee-4334-9cb0-50a7b8129ae0.png)
 
 
 ### Privacy Policy -
 
+![image](https://user-images.githubusercontent.com/112193238/203291002-d99786cc-7a3d-4fd2-bf91-fe488fa645f9.png)
+
 
 ### Disclaimer -
 
-
+![image](https://user-images.githubusercontent.com/112193238/203291098-b33aa0f1-9cce-40ff-b3de-eb64957f76f5.png)
 
 ### Posts -
+
+![image](https://user-images.githubusercontent.com/112193238/203291265-94103650-80b3-4a6e-90bf-2961c81ecab6.png)
+
+![image](https://user-images.githubusercontent.com/112193238/203291389-1ed2b2d8-6e3b-4491-87ea-da1fd1a8c995.png)
+
+![image](https://user-images.githubusercontent.com/112193238/203291510-583b3a7d-40d1-487b-9b9d-0ec17051ef33.png)
 
 
 
