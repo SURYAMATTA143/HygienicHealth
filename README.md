@@ -49,9 +49,9 @@ This is a web based application developed for health related website.
 
 ![image](https://user-images.githubusercontent.com/112193238/203284725-3db924bf-0a7f-4b69-9e14-25491b45902d.png)
 
-2.Azure Active Directory
+2.Networking
 
-![image](https://user-images.githubusercontent.com/112193238/208228515-9650818f-9627-479f-b40f-59d2be30e32a.png)
+![image](https://user-images.githubusercontent.com/112193238/209358817-a9012cc0-b813-4462-b279-c963ec1088a5.png)
 
 
 ## Tech Stack
